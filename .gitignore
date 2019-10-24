@@ -1,0 +1,14 @@
+.idea
+Include
+Lib
+Scripts
+F_Calc.py
+Functions.py
+Hello.py
+Prueba.py
+pyvenv.cfg
+score_list.txt
+__pycache__/Functions.cpython-37.pyc
+__pycache__/Hello.cpython-37.pyc
+
+
